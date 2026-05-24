@@ -1,0 +1,32 @@
+{
+  "version": 2,
+  "dgSpecHash": "yATxXOLY64s=",
+  "success": true,
+  "projectFilePath": "D:\\.C#\\QQListExport\\QQListExport.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\w\\.nuget\\packages\\epplus\\8.5.4\\epplus.8.5.4.nupkg.sha512",
+    "C:\\Users\\w\\.nuget\\packages\\epplus.interfaces\\8.4.0\\epplus.interfaces.8.4.0.nupkg.sha512",
+    "C:\\Users\\w\\.nuget\\packages\\microsoft.extensions.configuration\\9.0.15\\microsoft.extensions.configuration.9.0.15.nupkg.sha512",
+    "C:\\Users\\w\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\9.0.15\\microsoft.extensions.configuration.abstractions.9.0.15.nupkg.sha512",
+    "C:\\Users\\w\\.nuget\\packages\\microsoft.extensions.configuration.fileextensions\\9.0.15\\microsoft.extensions.configuration.fileextensions.9.0.15.nupkg.sha512",
+    "C:\\Users\\w\\.nuget\\packages\\microsoft.extensions.configuration.json\\9.0.15\\microsoft.extensions.configuration.json.9.0.15.nupkg.sha512",
+    "C:\\Users\\w\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\7.0.0\\microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512",
+    "C:\\Users\\w\\.nuget\\packages\\microsoft.extensions.fileproviders.abstractions\\9.0.15\\microsoft.extensions.fileproviders.abstractions.9.0.15.nupkg.sha512",
+    "C:\\Users\\w\\.nuget\\packages\\microsoft.extensions.fileproviders.physical\\9.0.15\\microsoft.extensions.fileproviders.physical.9.0.15.nupkg.sha512",
+    "C:\\Users\\w\\.nuget\\packages\\microsoft.extensions.filesystemglobbing\\9.0.15\\microsoft.extensions.filesystemglobbing.9.0.15.nupkg.sha512",
+    "C:\\Users\\w\\.nuget\\packages\\microsoft.extensions.primitives\\9.0.15\\microsoft.extensions.primitives.9.0.15.nupkg.sha512",
+    "C:\\Users\\w\\.nuget\\packages\\microsoft.io.recyclablememorystream\\3.0.1\\microsoft.io.recyclablememorystream.3.0.1.nupkg.sha512",
+    "C:\\Users\\w\\.nuget\\packages\\microsoft.web.webview2\\1.0.3967.48\\microsoft.web.webview2.1.0.3967.48.nupkg.sha512",
+    "C:\\Users\\w\\.nuget\\packages\\microsoft.win32.systemevents\\10.0.8\\microsoft.win32.systemevents.10.0.8.nupkg.sha512",
+    "C:\\Users\\w\\.nuget\\packages\\newtonsoft.json\\13.0.4\\newtonsoft.json.13.0.4.nupkg.sha512",
+    "C:\\Users\\w\\.nuget\\packages\\system.drawing.common\\10.0.8\\system.drawing.common.10.0.8.nupkg.sha512",
+    "C:\\Users\\w\\.nuget\\packages\\system.security.cryptography.pkcs\\9.0.15\\system.security.cryptography.pkcs.9.0.15.nupkg.sha512",
+    "C:\\Users\\w\\.nuget\\packages\\system.security.cryptography.xml\\9.0.15\\system.security.cryptography.xml.9.0.15.nupkg.sha512",
+    "C:\\Users\\w\\.nuget\\packages\\textcopy\\6.2.1\\textcopy.6.2.1.nupkg.sha512",
+    "C:\\Users\\w\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\9.0.16\\microsoft.aspnetcore.app.ref.9.0.16.nupkg.sha512",
+    "C:\\Users\\w\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\9.0.16\\microsoft.netcore.app.host.win-x64.9.0.16.nupkg.sha512",
+    "C:\\Users\\w\\.nuget\\packages\\microsoft.netcore.app.ref\\9.0.16\\microsoft.netcore.app.ref.9.0.16.nupkg.sha512",
+    "C:\\Users\\w\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\9.0.16\\microsoft.windowsdesktop.app.ref.9.0.16.nupkg.sha512"
+  ],
+  "logs": []
+}

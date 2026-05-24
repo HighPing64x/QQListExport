@@ -1,0 +1,6 @@
+dotnet add package Microsoft.Web.WebView2
+dotnet add package Microsoft.Web.WebView2.Wpf
+dotnet add package Newtonsoft.Json
+dotnet add package EPPlus
+dotnet add package System.Drawing.Common
+dotnet add package TextCopy
