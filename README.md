@@ -1,4 +1,4 @@
-# QQ 群管理助手 (QQ Group Manager)
+2# QQ 群管理助手 (QQ Group Manager)
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![.NET](https://img.shields.io/badge/.NET-6.0%2B-blue)](https://dotnet.microsoft.com/)
@@ -45,7 +45,7 @@
 
 ### 从源码编译
 ```
-git clone https://github.com/yourusername/QQListExport.git
+git clone https://github.com/HighPing64x/QQListExport.git
 cd QQListExport
 dotnet restore
 dotnet build
